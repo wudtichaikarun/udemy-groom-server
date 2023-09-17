@@ -2,7 +2,7 @@
 
 ## Architecture
 
-![alt groom_rpc](/images/groom_rpc.png "groom gRPC Architecture")
+![alt groom_rpc](/images/diagram.png "groom gRPC Architecture")
 
 ## Start groom gRPC Server
 
